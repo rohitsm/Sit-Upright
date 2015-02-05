@@ -1,3 +1,3 @@
-# SitUp
+# Sit-Upright
 
 To be updated...
