@@ -2,10 +2,11 @@
 	"name": "Sit-Upright",
 	"description": "This extension serves as a reminder to sit up with a straight back instead of slouching",
 	"version": "1.0",
-	"manifest_version": "1",
+	"manifest_version": 2,
 
 	"browser_action": {
-		"default_icon": "sit-upright.png"
+		"default_icon": "Sit-Upright.png",
+		"popup": "popup.html"
 
 	}
 
