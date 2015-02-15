@@ -59,9 +59,9 @@ function deactivate_al() {
 
 
 /**
-Scarface quote
+Scarface dialogue: (To be confirmed)
 
-So you wanna dance, 
-Frank, or do you wanna sit here and have a heart attack?
+"So you wanna dance, 
+Frank, or do you wanna sit here and have a heart attack?"
 
 */
