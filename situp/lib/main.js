@@ -54,4 +54,5 @@ Scarface dialogue: (To be confirmed)
 "So you wanna dance, 
 Frank, or do you wanna sit here and have a heart attack?"
 
+URL: https://addons.mozilla.org/en-US/firefox/addon/sit-upright/
 */
