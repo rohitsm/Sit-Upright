@@ -4,10 +4,10 @@ Do you sit for long hours at a stretch? Tend to slouch a lot? [Tony Montana](htt
 
 **Aim:** Good habits are hard to inculcate. This extension helps you internalize and gradually inculcate the habit of maintaining a straight posture.
 
-**Download link:\*** https://addons.mozilla.org/en-US/firefox/addon/sit-upright/
+**Download link:*** https://addons.mozilla.org/en-US/firefox/addon/sit-upright/
 
 **Screenshot:**
 
 ![alt text](https://github.com/rohitsm/Sit-Upright/blob/master/situp/data/Screenshot.png "Sit-Upright")
 
-*Add-on presently under post submission review
+*Add-on presently under post submission review	
