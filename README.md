@@ -10,14 +10,15 @@ Do you sit for long hours at a stretch? Tend to slouch a lot? [Tony Montana](htt
 **Building from source:**
 
 1. Installing the SDK:
-```
+
+```bash
 brew install mozilla-addon-sdk
 ```
 
 2. Building the XPI file:
 
 ...Navigate to the downloaded source on the terminal and type:
-```
+```bash
 cfx xpi
 ```
 
