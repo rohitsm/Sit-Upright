@@ -13,8 +13,10 @@ Do you sit for long hours at a stretch? Tend to slouch a lot? [Tony Montana](htt
 ```
 brew install mozilla-addon-sdk
 ```
-2. Building the XPI file: 
-..* Navigate to the downloaded source on the terminal and type:
+
+2. Building the XPI file:
+
+...Navigate to the downloaded source on the terminal and type:
 ```
 cfx xpi
 ```
