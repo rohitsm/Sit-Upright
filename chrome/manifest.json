@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+
+  "name": "Situp",
+  "description": "A basic Chrome extension",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "al-16px.png",
+    "default_title": "Sit-Upright"
+  },
+  "permissions": [
+    "activeTab",
+    "alarms",
+    "notifications"
+  ],
+  "background": {
+      "scripts": ["al.js"],
+      "persistent": false
+    },
+
+  "author": "rohitsm",
+  "homepage_url": "https://github.com/rohitsm/Sit-Upright"
+}
